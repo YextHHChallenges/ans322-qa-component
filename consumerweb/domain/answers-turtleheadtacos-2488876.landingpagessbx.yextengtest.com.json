@@ -1,6 +1,6 @@
 {
-  "$id": "answers-turtleheadtacos-2488876.landingpagessbx.yextengtest.com",
+  "$id": "restaurants-domain",
   "$schema": "https://schema.yext.com/config/consumerweb/domain/v1",
-  "domainName": "answers-turtleheadtacos-2488876.landingpagessbx.yextengtest.com",
+  "domainName": "answers-turtleheadtacos-${{businessId}}.landingpagessbx.yextengtest.com",
   "autoGenerateSitemap": false
 }
